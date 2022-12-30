@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/edu-project/static/css/main.d31d7873.css",
+    "main.js": "/edu-project/static/js/main.79141999.js",
+    "static/media/person-3.png": "/edu-project/static/media/person-3.5dd0b714cfc8d2673b79.png",
+    "static/media/person-2.png": "/edu-project/static/media/person-2.6570129d3e8716b40235.png",
+    "static/media/person-1.png": "/edu-project/static/media/person-1.fb6c3796b42f9ad950c7.png",
+    "static/media/brush.png": "/edu-project/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/edu-project/index.html",
+    "main.d31d7873.css.map": "/edu-project/static/css/main.d31d7873.css.map",
+    "main.79141999.js.map": "/edu-project/static/js/main.79141999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d31d7873.css",
+    "static/js/main.79141999.js"
+  ]
+}
